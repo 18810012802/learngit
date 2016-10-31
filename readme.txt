@@ -1,4 +1,5 @@
-Git is a distributed version control system
-Git is free software distributed under the GPL
-Create a new branch is quick
-Creating a new branch is quick and simple
+Git IS a dIStributed version control system
+iGit IS free software dIStributed under the GPL
+Create a new branch IS quick
+Creating a new branch IS quick and simple
+working on dev...
